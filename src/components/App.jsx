@@ -21,7 +21,6 @@ function App() {
     <div className="container">
       <div className="heading">
         <h1>Task Tracker</h1>
-        <p>Click on the completed task to strike out</p>
       </div>
       <div className="form">
         <input onChange={handleChange} type="text" value={inputText} />
