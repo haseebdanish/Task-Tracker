@@ -20,7 +20,7 @@ function App() {
   return (
     <div className="container">
       <div className="heading">
-        <h1>Task Tracker</h1>
+        <h2>Task Tracker</h2>
       </div>
       <div className="form">
         <input onChange={handleChange} type="text" value={inputText} />
