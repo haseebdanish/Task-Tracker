@@ -22,6 +22,9 @@ function App() {
       <div className="heading">
         <h2>Task Tracker</h2>
       </div>
+      <div className="heading">
+        <p>Click on task after completion</p>
+      </div>
       <div className="form">
         <input onChange={handleChange} type="text" value={inputText} />
         <button onClick={addItem}>
