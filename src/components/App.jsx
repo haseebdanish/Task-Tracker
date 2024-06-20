@@ -20,7 +20,7 @@ function App() {
   return (
     <div className="container">
       <div className="heading">
-        <h2>Task Tracker</h2>
+        <h1>Task Tracker</h1>
       </div>
       <div className="heading">
         <p>Click on task after completion</p>
