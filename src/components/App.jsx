@@ -21,6 +21,9 @@ function App() {
     <div className="container">
       <div className="heading">
         <h1>Task Tracker</h1>
+        <div>
+          <p>Task tracking made easy!</p>
+        </div>
       </div>
       <div className="heading">
         <p>Click on task after completion</p>
